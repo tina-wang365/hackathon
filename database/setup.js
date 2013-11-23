@@ -1,9 +1,6 @@
-var pg = require('pg'); 
-//or native libpq bindings
-//var pg = require('pg').native
 
-var conString = "postgres://postgres:1234@localhost/postgres";
 
+/*
 var client = new pg.Client(conString);
 client.connect(function(err) {
   if(err) {
@@ -18,3 +15,4 @@ client.connect(function(err) {
     client.end();
   });
 });
+*/
