@@ -1,0 +1,36 @@
+.container{
+    width:980px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:green;
+    background="./images/pixel_green.png";
+}
+
+#right{
+    text-align:left;
+    float:right;
+    padding: 15px 20px 0px 0px;
+
+}
+a:link{
+    color:#FFFFFF;
+}
+
+#sidebar{
+    background-color:black;
+}
+#content{
+    text-align:left;
+    float:left;
+    padding:0px 30px 0px 50px;
+    background-image="./images/baby_penguin.jpg";
+}
+#test{
+
+background-color:blue;
+}
+.span1{
+    padding: 0px 0px 0px 10px;
+}
+
+
