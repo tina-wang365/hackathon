@@ -1,0 +1,50 @@
+.container{
+    width:980px;
+    color:white;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:black;
+    background="./images/pixel_green.png";
+}
+
+#right{
+    text-align:left;
+    float:right;
+    padding: 15px 20px 0px 0px;
+}
+a:link{
+    color:#FFFFFF;
+    padding: 0px 0px 0px 10px;
+}
+
+#myColumns{
+    padding: 30px 20px 200px 0px;
+}
+
+#sidebar{
+    background-color:black;
+    padding:0px 20px 0px 20px;
+    text-align:center;
+}
+
+#content{
+    text-align:left;
+}
+#test{
+
+background-color:blue;
+}
+.span1{
+    padding: 0px 0px 0px 10px;
+}
+
+#content{
+    background-color:black;
+    padding: 20px 0px 0px 0px;
+
+}
+
+#padding{
+    background-color:green;
+    
+}
